@@ -5,6 +5,7 @@ from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 import unittest
 import time
 from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import WebDriverException
 
 MAX_WAIT = 10
 
