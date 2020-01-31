@@ -5,3 +5,4 @@ geckodriver*
 .venv
 .vscode
 /static
+.env
